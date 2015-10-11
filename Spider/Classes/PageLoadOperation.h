@@ -1,0 +1,14 @@
+//
+//  PageLoadOperation.h
+//  Parser
+//
+//  Created by Genry on 8/16/15.
+//  Copyright (c) 2015 Genry. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+@class PageUrl;
+
+@interface PageLoadOperation : NSOperation
+- (id)initWithURL:(PageUrl*)pageUrl;
+@end

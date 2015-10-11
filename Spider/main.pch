@@ -1,0 +1,18 @@
+//
+//  main.pch
+//  Parser
+//
+//  Created by Genry on 8/16/15.
+//  Copyright (c) 2015 Genry. All rights reserved.
+//
+
+#ifndef Parser_main_pch
+#define Parser_main_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "GlobalTypes.h"
+#import "AlertHelper.h"
+#import "DataManager.h"
+
+#endif
